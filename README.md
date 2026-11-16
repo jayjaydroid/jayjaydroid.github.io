@@ -36,3 +36,4 @@ Repository:
 jayjaydroid.github.io
 
 Put index.html, style.css, script.js, and 1.jpg in the repository root.
+
